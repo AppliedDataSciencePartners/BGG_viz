@@ -11,13 +11,15 @@ cluster_vars = grep('category_|mechanic_', names(data))
 
 data_to_cluster = data[,cluster_vars,with=FALSE]
 
+set.seed(1067)
+
 tsne_bgg = Rtsne(data_to_cluster
                  , check_duplicates = FALSE
                  , perplexity=5
                  , verbose=TRUE
                  , max_iter = 5000
                  , theta = 0
-                 ,pca = FALSE)
+                 ,pca = TRUE)
 
 #d = dist(data_to_cluster)
 d = dist(tsne_bgg$Y)
