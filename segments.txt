@@ -1,0 +1,392 @@
+1 
+
+ mechanic_variable_player_powers         mechanic_hand_management 
+                       0.6666667                        0.5238095 
+mechanic_point_to_point_movement         category_science_fiction 
+                       0.4761905                        0.3333333 
+     mechanic_deck_pool_building 
+                       0.3333333 
+#FF0000FF1 
+     "red" 
+[1] "Pandemic Legacy: Season 1" "Roll for the Galaxy"       "Race for the Galaxy"      
+[4] "Pandemic"                  "Pandemic: The Cure"       
+-------------
+2 
+
+mechanic_hand_management        category_economic       category_card_game 
+               1.0000000                0.9285714                0.7857143 
+  category_city_building   mechanic_card_drafting 
+               0.5714286                0.4285714 
+ #FF3300FF1 
+"orangered" 
+[1] "Through the Ages: A New Story of Civilization"
+[2] "Through the Ages: A Story of Civilization"    
+[3] "Glory to Rome"                                
+[4] "Bruges"                                       
+[5] "San Juan"                                     
+-------------
+3 
+
+                    category_wargame                mechanic_dice_rolling 
+                                0.80                                 0.75 
+                  category_political mechanic_campaign_battle_card_driven 
+                                0.70                                 0.60 
+mechanic_area_control_area_influence 
+                                0.55 
+    #FF6600FF 
+"darkorange2" 
+[1] "Twilight Struggle"                 "Twilight Imperium (Third Edition)"
+[3] "Paths of Glory"                    "Hannibal: Rome vs. Carthage"      
+[5] "Here I Stand"                     
+-------------
+4 
+
+      category_economic  mechanic_card_drafting mechanic_set_collection 
+                   0.80                    0.76                    0.72 
+ category_city_building mechanic_tile_placement 
+                   0.48                    0.44 
+#FF9900FF1 
+  "orange" 
+[1] "Terra Mystica"              "Castles of Mad King Ludwig" "Ora et Labora"             
+[4] "Nations"                    "Suburbia"                  
+-------------
+5 
+
+       category_science_fiction          mechanic_modular_board 
+                      0.9090909                       0.6818182 
+              category_fighting           mechanic_dice_rolling 
+                      0.5909091                       0.5909091 
+mechanic_variable_player_powers 
+                      0.5454545 
+#FFCC00FF1 
+    "gold" 
+[1] "Star Wars: Rebellion"                     "Eclipse"                                 
+[3] "Forbidden Stars"                          "Space Alert"                             
+[5] "Sid Meier's Civilization: The Board Game"
+-------------
+6 
+
+                   category_economic      category_industry_manufacturing 
+                           0.9411765                            0.8235294 
+           mechanic_worker_placement mechanic_area_control_area_influence 
+                           0.7647059                            0.2941176 
+     mechanic_variable_player_powers 
+                           0.2941176 
+#FFFF00FF1 
+  "yellow" 
+[1] "Scythe"            "Terraforming Mars" "Le Havre"          "Fields of Arle"   
+[5] "Russian Railroads"
+-------------
+7 
+
+      category_card_game  mechanic_set_collection   mechanic_card_drafting 
+               1.0000000                0.9333333                0.8666667 
+mechanic_hand_management         category_ancient 
+               0.7333333                0.2666667 
+#CCFF00FF 
+"yellow2" 
+[1] "7 Wonders Duel"    "7 Wonders"         "Jaipur"            "Imperial Settlers"
+[5] "Sushi Go Party!"  
+-------------
+8 
+
+             mechanic_tile_placement mechanic_area_control_area_influence 
+                           0.6666667                            0.5714286 
+                   category_economic                    category_medieval 
+                           0.3809524                            0.3809524 
+            mechanic_hand_management 
+                           0.3333333 
+  #99FF00FF1 
+"chartreuse" 
+[1] "Caverna: The Cave Farmers"             "Dominant Species"                     
+[3] "Galaxy Trucker"                        "Carcassonne"                          
+[5] "Agricola: All Creatures Big and Small"
+-------------
+9 
+
+               mechanic_dice_rolling                        category_dice 
+                           0.8888889                            0.6666667 
+           mechanic_worker_placement mechanic_area_control_area_influence 
+                           0.6111111                            0.5555556 
+                   category_economic 
+                           0.5000000 
+  #66FF00FF 
+"lawngreen" 
+[1] "The Castles of Burgundy"   "The Voyages of Marco Polo" "Troyes"                   
+[4] "Stone Age"                 "Imperial"                 
+-------------
+10 
+
+       mechanic_auctionbidding              category_economic        mechanic_tile_placement 
+                     0.9285714                      0.7857143                      0.7857143 
+mechanic_routenetwork_building        category_transportation 
+                     0.5714286                      0.4285714 
+#33FF00FF1 
+   "green" 
+[1] "Puerto Rico"             "Keyflower"               "Railways of the World"  
+[4] "Steam"                   "The Princes of Florence"
+-------------
+11 
+
+          mechanic_dice_rolling          mechanic_modular_board 
+                      0.9310345                       0.8965517 
+mechanic_variable_player_powers              category_adventure 
+                      0.7931034                       0.7586207 
+               category_fantasy 
+                      0.7586207 
+#00FF00FF1 
+   "green" 
+[1] "Gloomhaven"                                      
+[2] "Mage Knight Board Game"                          
+[3] "Star Wars: Imperial Assault"                     
+[4] "Robinson Crusoe: Adventures on the Cursed Island"
+[5] "Mansions of Madness: Second Edition"             
+-------------
+12 
+
+        category_economic  mechanic_hand_management          category_farming 
+                    1.000                     1.000                     0.875 
+mechanic_worker_placement    mechanic_card_drafting 
+                    0.750                     0.375 
+#00FF33FF1 
+   "green" 
+[1] "Agricola"                      "Viticulture Essential Edition"
+[3] "Mombasa"                       "Goa"                          
+[5] "Viticulture"                  
+-------------
+13 
+
+            category_miniatures           mechanic_dice_rolling 
+                            0.9                             0.9 
+               category_wargame        mechanic_hand_management 
+                            0.6                             0.6 
+mechanic_variable_player_powers 
+                            0.6 
+     #00FF66FF 
+"springgreen2" 
+[1] "War of the Ring (Second Edition)"  "Star Wars: X-Wing Miniatures Game"
+[3] "War of the Ring (first edition)"   "Star Wars: Armada"                
+[5] "Zombicide"                        
+-------------
+14 
+
+                   category_fighting               mechanic_area_movement 
+                           1.0000000                            1.0000000 
+mechanic_area_control_area_influence                mechanic_dice_rolling 
+                           0.7142857                            0.7142857 
+                    category_fantasy 
+                           0.6428571 
+          #00FF99FF 
+"mediumspringgreen" 
+[1] "Blood Rage"             "Kemet"                  "Chaos in the Old World"
+[4] "Runewars"               "Cyclades"              
+-------------
+15 
+
+              category_economic category_industry_manufacturing 
+                      1.0000000                       0.7272727 
+        mechanic_auctionbidding  mechanic_routenetwork_building 
+                      0.5454545                       0.5454545 
+        category_transportation 
+                      0.3636364 
+#00FFCCFF 
+  "cyan2" 
+[1] "Power Grid"                              "Brass: Lancashire"                      
+[3] "Food Chain Magnate"                      "Shogun"                                 
+[5] "Power Grid Deluxe: Europe/North America"
+-------------
+16 
+
+       mechanic_hand_management mechanic_variable_player_powers 
+                      0.9565217                       0.9130435 
+             category_card_game               category_bluffing 
+                      0.5217391                       0.3913043 
+               category_fantasy 
+                      0.3913043 
+#00FFFFFF1 
+    "cyan" 
+[1] "Android: Netrunner"                                
+[2] "Arkham Horror: The Card Game"                      
+[3] "Dead of Winter: A Crossroads Game"                 
+[4] "Battlestar Galactica"                              
+[5] "A Game of Thrones: The Board Game (Second Edition)"
+-------------
+17 
+
+  category_party_game    category_deduction mechanic_partnerships     category_bluffing 
+            0.7241379             0.5862069             0.5517241             0.4827586 
+   category_card_game 
+            0.3793103 
+   #00CCFFFF1 
+"deepskyblue" 
+[1] "Codenames"              "Crokinole"              "The Resistance: Avalon"
+[4] "The Resistance"         "Captain Sonar"         
+-------------
+18 
+
+ mechanic_variable_player_powers               category_adventure 
+                       1.0000000                        0.8333333 
+mechanic_point_to_point_movement                 category_fantasy 
+                       0.7500000                        0.6666667 
+           mechanic_dice_rolling 
+                       0.6666667 
+     #0099FFFF 
+"deepskyblue2" 
+[1] "T.I.M.E Stories"                 "Eldritch Horror"                
+[3] "Fury of Dracula (third edition)" "Arkham Horror"                  
+[5] "Tales of the Arabian Nights"    
+-------------
+19 
+
+  mechanic_set_collection         category_economic mechanic_worker_placement 
+                0.6315789                 0.5789474                 0.4736842 
+        category_medieval          category_farming 
+                0.3684211                 0.3157895 
+    #0066FFFF 
+"dodgerblue2" 
+[1] "Tzolk'in: The Mayan Calendar" "Caylus"                      
+[3] "A Feast for Odin"             "The Gallerist"               
+[5] "Village"                     
+-------------
+20 
+
+        mechanic_hand_management           mechanic_card_drafting 
+                          0.7500                           0.3750 
+       mechanic_worker_placement               category_deduction 
+                          0.3750                           0.3125 
+mechanic_point_to_point_movement 
+                          0.3125 
+#0033FFFF1 
+    "blue" 
+[1] "Orlans"                               "Concordia"                           
+[3] "Great Western Trail"                  "Sherlock Holmes Consulting Detective"
+[5] "Alchemists"                          
+-------------
+21 
+
+            category_abstract_strategy                 mechanic_grid_movement 
+                             0.7391304                              0.5652174 
+               mechanic_tile_placement               mechanic_hand_management 
+                             0.5652174                              0.3043478 
+mechanic_action_point_allowance_system 
+                             0.1739130 
+#0000FFFF1 
+    "blue" 
+[1] "Patchwork"          "Tigris & Euphrates" "Santorini"          "Go"                
+[5] "YINSH"             
+-------------
+22 
+
+             mechanic_set_collection                 category_renaissance 
+                           0.7142857                            0.5714286 
+mechanic_area_control_area_influence              mechanic_auctionbidding 
+                           0.4285714                            0.3333333 
+           mechanic_worker_placement 
+                           0.3333333 
+#3300FFFF1 
+    "blue" 
+[1] "Lords of Waterdeep"                       "Five Tribes"                             
+[3] "El Grande"                                "Hansa Teutonica"                         
+[5] "Age of Empires III: The Age of Discovery"
+-------------
+23 
+
+         category_card_game mechanic_deck_pool_building    mechanic_hand_management 
+                  1.0000000                   1.0000000                   1.0000000 
+     mechanic_card_drafting            category_fantasy 
+                  0.9166667                   0.7500000 
+   #6600FFFF 
+"blueviolet" 
+[1] "Dominion: Intrigue"                                             
+[2] "Dominion"                                                       
+[3] "A Few Acres of Snow"                                            
+[4] "Blood Bowl: Team Manager  The Card Game"                        
+[5] "Pathfinder Adventure Card Game: Rise of the Runelords  Base Set"
+-------------
+24 
+
+      mechanic_hand_management        mechanic_set_collection         mechanic_card_drafting 
+                     1.0000000                      1.0000000                      0.8888889 
+mechanic_routenetwork_building                category_trains 
+                     0.7777778                      0.4444444 
+#9900FFFF 
+ "purple" 
+[1] "Trajan"                           "Ticket to Ride: Europe"          
+[3] "Ticket to Ride: Nordic Countries" "Ticket to Ride"                  
+[5] "Ticket to Ride: Mrklin"          
+-------------
+25 
+
+         category_card_game mechanic_deck_pool_building    category_science_fiction 
+                  0.9230769                   0.8461538                   0.3846154 
+           category_fantasy      mechanic_card_drafting 
+                  0.2307692                   0.2307692 
+ #CC00FFFF 
+"magenta2" 
+[1] "Legendary Encounters: An Alien Deck Building Game"
+[2] "Star Realms"                                      
+[3] "Legendary: A Marvel Deck Building Game"           
+[4] "Clank!: A Deck-Building Adventure"                
+[5] "Star Realms: Colony Wars"                         
+-------------
+26 
+
+      category_wargame  mechanic_dice_rolling    mechanic_simulation  category_world_war_ii 
+                  0.90                   0.75                   0.65                   0.60 
+mechanic_modular_board 
+                  0.50 
+#FF00FFFF1 
+ "magenta" 
+[1] "Commands & Colors: Ancients" "Combat Commander: Europe"    "Memoir '44"                 
+[4] "Advanced Squad Leader"       "Catan"                      
+-------------
+27 
+
+mechanic_action_point_allowance_system                 mechanic_modular_board 
+                                   0.8                                    0.8 
+                mechanic_grid_movement                  mechanic_dice_rolling 
+                                   0.7                                    0.6 
+       mechanic_variable_player_powers 
+                                   0.5 
+ #FF00CCFF 
+"magenta2" 
+[1] "Istanbul"                       "Clash of Cultures"             
+[3] "Merchants & Marauders"          "Survive: Escape from Atlantis!"
+[5] "Forbidden Desert"              
+-------------
+28 
+
+               category_fantasy        mechanic_hand_management 
+                      1.0000000                       0.9230769 
+mechanic_variable_player_powers              category_card_game 
+                      0.9230769                       0.8461538 
+              category_fighting 
+                      0.6153846 
+#FF0099FF1 
+"deeppink" 
+[1] "Mage Wars Arena"                      "Summoner Wars: Master Set"           
+[3] "Seasons"                              "Lord of the Rings: The Confrontation"
+[5] "Smash Up: Awesome Level 9000"        
+-------------
+29 
+
+      category_card_game mechanic_hand_management  mechanic_set_collection 
+               1.0000000                1.0000000                0.5714286 
+        category_ancient       category_deduction 
+               0.2142857                0.2142857 
+  #FF0066FF 
+"deeppink2" 
+[1] "Tichu"       "Battle Line" "Hanabi"      "Inis"        "Lost Cities"
+-------------
+30 
+
+         mechanic_dice_rolling category_movies_tv_radio_theme       category_science_fiction 
+                     1.0000000                      0.5714286                      0.5714286 
+        mechanic_card_drafting               mechanic_trading 
+                     0.5714286                      0.5714286 
+   #FF0033FF 
+"firebrick2" 
+[1] "Risk Legacy"                            "King of Tokyo"                         
+[3] "Firefly: The Game"                      "Spartacus: A Game of Blood & Treachery"
+[5] "King of New York"                      
+-------------

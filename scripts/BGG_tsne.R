@@ -1,6 +1,7 @@
 library(data.table)
 library(stringr)
 library(Rtsne)
+library(plotrix)
 
 data = fread('./data/games.csv')
 
@@ -24,6 +25,9 @@ tsne_bgg = Rtsne(data_to_cluster
 #d = dist(data_to_cluster)
 d = dist(tsne_bgg$Y)
 
+
+
+
 clusters <- hclust(d,method = 'ward.D2')
 number_of_clusters = 30
 clusterCut <- cutree(clusters, number_of_clusters)
@@ -31,6 +35,18 @@ clusterCut <- cutree(clusters, number_of_clusters)
 palette(rainbow(number_of_clusters))
 par(bg = "black")
 plot(tsne_bgg$Y, t='n', main="Board Games Map")
-text(tsne_bgg$Y, labels=data[,name],cex = 0.6, col = clusterCut)
+text(tsne_bgg$Y, labels=data[,name],cex = 1, col = clusterCut)
 
 
+###CODE TO DETERMINE CLUSTER DEFINITIONS
+cat('-------------\n')
+for (i in 1:number_of_clusters){
+  cat(i,'\n\n')
+  print(
+    sort(sapply(data_to_cluster[which(clusterCut == i)], mean),decreasing=TRUE)[1:5]
+  )
+  
+  print(unlist(sapply(rainbow(number_of_clusters),color.id)[i])[1])
+  print(data[which(clusterCut == i)[1:5],name])
+  cat('-------------\n')
+}
